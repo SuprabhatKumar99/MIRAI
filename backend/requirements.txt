@@ -1,0 +1,11 @@
+# Direct dependencies only.
+# Install with: pip install -r requirements.txt
+
+fastapi==0.162.7
+uvicorn==0.54.0
+python-dotenv==1.2.4
+google-genai==3.3.0
+python-multipart==0.0.33
+requests==2.34.2
+packaging==26.3
+tomli-w==1.2.0
